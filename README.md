@@ -15,8 +15,8 @@ Inintially we have also used the PurdueShapes dataset for testing the model arch
 
 The directory structure should look something similar to this:
 
-CocoFilteredDataset/ └── train/ ├── motorcycle/ ├── dog/ └── cake/ └── test/ ├── motorcycle/ ├── dog/ └── cake/
 
+```
 CocoFilteredDataset/ 
 └── train/
 |   ├── motorcycle/
@@ -26,6 +26,7 @@ CocoFilteredDataset/
     ├── motorcycle/
     ├── dog/
     └── cake/
+```
 
 ## Implementation:
 
