@@ -30,9 +30,6 @@ CocoFilteredDataset/
 
 ## Implementation:
 
-1. Initial test on the PurdueShapes dataset for checking the operation for the Combined Dice-MSE Loss function was carried out using a pre existing script(from [DLStudio Library](https://engineering.purdue.edu/kak/distDLS/#106) by Prof. Avinash Kak's) called sematic_segmentation.
-2. Once the proper operation was confirmed the same was implmenated for the Coco Dataset referenceing the implementation of semantic_segmentation.py script.
-3. Complete implemntation documentation can be found in the attached PDF file, with mathematical explanation of dice loss and details on the model architecture and code.
 1. To conduct an initial test on the PurdueShapes dataset to verify the operation for the Combined Dice-MSE Loss function, Dr. Avinash Kak's sematic segmentation script, which can be found in the [DLStudio Library](https://engineering.purdue.edu/kak/distDLS/#106), was used.
 2. After the model gave pretty accurate results for PurdueShapes dataset, the semantic segmentation implementation was implemented for the Coco Dataset.
 3. The PDF file that is attached contains all of the implementation documentation, including a mathematical justification for dice loss as well as information on the model's architecture and code.
